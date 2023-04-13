@@ -1,0 +1,12 @@
+footer {
+    background-color: #190330;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+}
+h6 {
+    font-size: 22px;
+    color: whitesmoke;
+    font-family: "Kanit";
+}
